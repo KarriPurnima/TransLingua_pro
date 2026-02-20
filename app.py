@@ -8,8 +8,7 @@ from io import BytesIO
 import os
 from dotenv import load_dotenv
 import speech_recognition as sr
-import docx
-
+from docx import Document
 # Load environment variables
 load_dotenv()
 groq_api_key = os.getenv("GROQ_API_KEY")  # Ensure your key is in .env
