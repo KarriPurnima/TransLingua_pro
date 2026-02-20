@@ -121,7 +121,7 @@ with tab2:
         if uploaded_file.name.endswith(".txt"):
             content = uploaded_file.read().decode("utf-8")
         else:
-            doc = docx.Document(uploaded_file)
+            doc = Document(uploaded_file)
             content = "\n".join([para.text for para in doc.paragraphs])
 
         st.text_area("File Content", content, height=200)
