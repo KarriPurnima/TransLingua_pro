@@ -4,5 +4,4 @@ langchain_core
 langchain_groq
 gtts
 SpeechRecognition
-docx
 python-dotenv
