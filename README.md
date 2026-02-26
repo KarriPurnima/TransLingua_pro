@@ -189,33 +189,6 @@ http://localhost:8501
 
 ---
 
-# ☁️ Deployment on Render
-
-## Build Command:
-
-```
-pip install -r requirements.txt
-```
-
-## Start Command:
-
-```
-streamlit run app.py --server.port 10000 --server.address 0.0.0.0
-```
-
-## Add Environment Variable in Render:
-
-Key:
-```
-GROQ_API_KEY
-```
-
-Value:
-```
-your_api_key_here
-```
-
----
 
 # 🌍 Supported Languages
 
@@ -243,22 +216,10 @@ And many more...
 
 ---
 
-# 📈 Future Enhancements
-
-- Add PDF translation support
-- Add auto language detection
-- Add downloadable translated files
-- Add translation history
-- Add user authentication
-- Improve UI animations
-
----
 
 # 👩‍💻 Author
 
 Karri Purnima  
-AI / ML Developer  
-
 GitHub: https://github.com/KarriPurnima
 
 ---
