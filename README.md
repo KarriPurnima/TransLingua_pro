@@ -18,6 +18,12 @@ It combines:
 - Cloud Deployment
 
 This project demonstrates practical implementation of AI in real-world applications.
+---
+# 🎥 Demo Video
+
+▶️ Click below to watch the demo:
+
+[Watch Demo Video](./Demo_Video.mp4)
 
 ---
 
