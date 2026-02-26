@@ -23,7 +23,7 @@ This project demonstrates practical implementation of AI in real-world applicati
 
 ▶️ Click below to watch the demo:
 
-[Watch Demo Video](https://drive.google.com/file/d/1h6Blii1ByDyRudkoehkxuBFkkpFLJywL/view?usp=drive_link)
+[Watch Demo Video](https://drive.google.com/file/d/1tykIuvNqEA8uRI_MVazTMMsbemPK8Pf8/view?usp=sharing)
 
 ---
 
