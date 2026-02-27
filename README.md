@@ -223,10 +223,13 @@ And many more...
 ---
 
 
-# 👩‍💻 Author
+# 👩‍💻 Team Members
 
-Karri Purnima  
-GitHub: https://github.com/KarriPurnima
+## 👥 Team Members
+
+- Gurram Bhavya Sree  
+- Karri Purnima
+- Makkineni Venkata Lakshmi Prathyusha
 
 ---
 
